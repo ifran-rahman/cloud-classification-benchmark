@@ -2,13 +2,26 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it using the metadata below."
 title: "Cloud Classification Benchmark: Efficiency vs Accuracy with Self-Distillation"
 authors:
-  - family-names: "Rahman"
+  - family-names: "Rahman Nijhum"
     given-names: "Ifran"
+    orcid: "https://orcid.org/0009-0001-0362-4914"
+  - family-names: "Hoque Mithila"
+    given-names: "Iffat"
+  - family-names: "Ayala Cabrera"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0001-5004-3453"
+  - family-names: "Dev"
+    given-names: "Soumyabrata"
+    orcid: "https://orcid.org/0000-0002-0153-1095"
+
 date-released: "2025-01-01"
-url: "https://github.com/ifran-rahman/cloud-classification-benchmark"
 version: "1.0"
+
+url: "https://github.com/ifran-rahman/cloud-classification-benchmark"
 repository-code: "https://github.com/ifran-rahman/cloud-classification-benchmark"
+
 abstract: >
-  A benchmarking study evaluating efficient CNN architectures for cloud-type
-  classification, including analysis of self-distillation effects and
-  efficiency–accuracy trade-offs.
+  This repository provides the implementation used for benchmarking efficient
+  CNN architectures on cloud-type classification, including an analysis of
+  self-distillation effects and efficiency–accuracy trade-offs for real-time
+  sky-imaging applications.
