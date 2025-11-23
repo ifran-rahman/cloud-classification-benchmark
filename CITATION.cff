@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Cloud Classification Benchmark: Efficiency vs Accuracy with Self-Distillation"
+authors:
+  - family-names: "Rahman"
+    given-names: "Ifran"
+date-released: "2025-01-01"
+url: "https://github.com/ifran-rahman/cloud-classification-benchmark"
+version: "1.0"
+repository-code: "https://github.com/ifran-rahman/cloud-classification-benchmark"
+abstract: >
+  A benchmarking study evaluating efficient CNN architectures for cloud-type
+  classification, including analysis of self-distillation effects and
+  efficiency–accuracy trade-offs.
