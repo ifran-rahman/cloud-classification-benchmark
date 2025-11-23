@@ -32,8 +32,8 @@ The notebook:
 If you use this repository or build upon this study, please cite:
 
 ```sh
-@software{Rahman_Cloud_Classification_Benchmark_2025,
-author = {Rahman, Ifran},
+@software{Rahman_Nijhum_Cloud_Classification_Benchmark_2025,
+author = {Rahman Nijhum, Ifran and Hoque Mithila, Iffat and Ayala Cabrera, David and Dev, Soumyabrata},
 month = jan,
 title = {{Cloud Classification Benchmark: Efficiency vs Accuracy with Self-Distillation}},
 url = {https://github.com/ifran-rahman/cloud-classification-benchmark},
