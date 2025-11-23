@@ -27,3 +27,17 @@ The notebook:
 - Applies **self-distillation** to analyze how each architecture responds to distilled supervision.  
 - Compares baseline vs distilled models using accuracy, parameter count, FLOPs, and CPU/GPU latency.
 
+## Citation
+
+If you use this repository or build upon this study, please cite:
+
+```sh
+@software{Rahman_Cloud_Classification_Benchmark_2025,
+author = {Rahman, Ifran},
+month = jan,
+title = {{Cloud Classification Benchmark: Efficiency vs Accuracy with Self-Distillation}},
+url = {https://github.com/ifran-rahman/cloud-classification-benchmark},
+version = {1.0},
+year = {2025}
+}
+```
